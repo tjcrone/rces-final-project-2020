@@ -8,3 +8,4 @@ dependencies:
   - matplotlib
   - cartopy
   - netcdf4
+  - scipy
